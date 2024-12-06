@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6642307892",
+    "project_id": "receita-dddcb",
+    "storage_bucket": "receita-dddcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6642307892:android:37312312779fdd637ccb61",
+        "android_client_info": {
+          "package_name": "com.example.receita"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa3NkcHAYeSDMcbVrL_tSv2uYVRXqMLyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

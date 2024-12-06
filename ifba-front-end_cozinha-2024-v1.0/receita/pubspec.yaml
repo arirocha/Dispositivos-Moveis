@@ -1,0 +1,39 @@
+name: receita
+description: A new Flutter project.
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.1.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flat_list: ^0.1.14
+  provider: ^6.0.0
+  page_view_dot_indicator: ^2.1.0
+  toast: ^0.3.0
+  flutter_share: ^2.0.0
+
+  google_sign_in: ^6.2.1
+  firebase_auth: ^4.7.0
+  firebase_core: ^2.15.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - lib/recursos/imagens/receita.jpeg
+    - lib/recursos/imagens/time.png
+    - lib/recursos/json/feed.json
+    - lib/recursos/json/comentarios.json

@@ -1,0 +1,402 @@
+{
+    "receitas": [
+        {
+            "_id": 1,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "time": "30 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 50,
+            "recipe": {
+                "name": "Lasanha",
+                "description": "Uma boa receita de lasanha conquista a família e pode promover reuniões em volta da mesa cheia de risadas, conversas e sabores irresistíveis.",
+                "ingredients": "2 colheres (sopa) de óleo\n1 cebola média picada (150 g)\n400 g de patinho bovino moído\n2 tomates médios picados (300 g)\n2 caixinhas de polpa de tomate (1040 g)\nmeia xícara (chá) de água (100 ml)\n2 sachês de Tempero SAZÓN® Laranja\nmeia colher (chá) de sal\n1 pacote de massa de lasanha seca direto ao forno (250 g)\n200 g de presunto fatiado\n300 g de muçarela fatiada\n",
+                "instructions": "Em uma panela grande, coloque o óleo e leve ao fogo alto para aquecer. Junte a cebola e refogue por 2 minutos. Acrescente a carne, aos poucos, e frite por 10 minutos, ou até o líquido secar. Adicione o tomate e refogue por 3 minutos, ou até que comece a desmanchar.\nJunte a polpa de tomate, a água, o Tempero SAZÓN® e o sal, e deixe cozinhar em fogo baixo, com a panela semitampada, por 5 minutos, ou até encorpar levemente. Retire do fogo.\nEm um refratário retangular grande (23 x 35 cm), faça camadas com o molho, a massa, o presunto e a muçarela, intercalando e repetindo até finalizar com o molho e a muçarela.\nCubra com papel-alumínio e leve ao forno médio (180 graus), preaquecido, por 20 minutos, ou até que a massa fique macia. Remova o papel-alumínio e volte ao forno por mais 5 minutos, ou até dourar o queijo.\nRetire do forno e sirva em seguida.\n",
+                "url": "https://www.saboresajinomoto.com.br/receita/lasanha-tradicional",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "lasanha0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "lasanha1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "lasanha2.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 2,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "time": "2h20",
+                "avatar": "time.jpeg"
+            },
+            "likes": 100,
+            "recipe": {
+                "name": "Feijoada",
+                "description": "Uma feijoada completa, digna de restaurante, mas feita em casa, com os pertences que você preferir!",
+                "ingredients": "1,1 kg de costela de porco salgada (1 peça com 12 ripas)\n800 g de carne-seca\n600 g de lombo de porco salgado\n1 kg de feijão-preto\n500 g de paio (4 unidades)\n3 cebolas\n5 dentes de alho\n¼ de xícara (chá) de azeite\n3 folhas de louro\n1 colher (chá) de cominho em pó\n",
+                "instructions": "Comece o preparo da feijoada no dia anterior para dessalgar as carnes. Descarte o excesso de gordura das peças. Corte o lombo e a carne-seca em cubos médios de cerca de 3 cm. Apoie a peça de costelinha na tábua e corte a carne entre os ossinhos para separar as ripas.\nColoque cada tipo de carne numa tigela grande, cubra com bastante água e leve à geladeira. Deixe de molho por 24 horas para dessalgar, trocando a água a cada 3 horas, de preferência.\nColoque o feijão numa peneira e lave bem sob água corrente. Transfira os grãos para uma tigela grande e cubra com 2,5 litros de água – se algum boiar, descarte. Cubra com um prato e deixe de molho por 30 minutos.\nEscorra a água das carnes dessalgadas e transfira para um caldeirão grande com capacidade para 11 litros. Cubra as carnes com água e leve ao fogo alto. Deixe cozinhar por 10 minutos em fogo alto, contados após a fervura.\nEnquanto isso, descasque e pique fino as cebolas e os dentes de alho. Retire a pele dos paios. Escorra a água do feijão.\nCom uma escumadeira, transfira as carnes pré-cozidas para uma tigela grande e descarte a água do cozimento.\nVolte o caldeirão ao fogo alto, regue com azeite, adicione a cebola e tempere com uma pitada de sal. Refogue por 8 minutos até começar a dourar. Junte o alho, o cominho, as folhas de louro e mexa por 1 minuto.\nAcrescente o feijão demolhado ao refogado e misture bem. Adicione 6 litros de água e mantenha em fogo alto. Assim que começar a ferver, junte a carne-seca e a costelinha pré-cozidas, abaixe o fogo e deixe cozinhar por 2 horas, mexendo de vez em quando.\nApós 2 horas, junte o lombo pré-cozido e os paios inteiros. Deixe cozinhar em fogo baixo por mais 3 horas, mexendo delicadamente.\nFaltando 30 minutos, corte os paios em fatias de 1 cm e volte à panela. Deixe cozinhar até completar as 5 horas de cozimento total, ou até que as carnes estejam macias e o caldo engrosse. Sirva com arroz, couve refogada, laranja e farinha de mandioca torrada.\n",
+                "url": "https://panelinha.com.br/receita/feijoada/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "feijoada0.jpeg"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "feijoada1.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 3,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "time": "50 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 200,
+            "recipe": {
+                "name": "Bolo de Chocolate",
+                "description": "Se você adora preparar bolos caseiros, essa receita de bolo de chocolate simples não pode faltar na lista de sobremesas fáceis.",
+                "ingredients": "2 ovos\n1 e 1/2 xícara chá de açúcar\n2 xícaras chá de farinha de trigo\n1 xícara chá de chocolate em pó ou achocolatado\n2 colheres de sopa de Margarina Doriana com Sal\n1 colher sopa de fermento em pó\n1 pitada de sal\n1 xícara chá de leite\n2 xícaras chá de leite\n1 xícara chá de chocolate em pó\n1 colher sopa de Margarina Doriana com Sal\n1 xícara chá de açúcar\n",
+                "instructions": "Para a massa do bolo:\nEm um recipiente, bata os ovos, o açúcar, a Margarina Doriana com Sal até formar um creme.\nCom uma peneira, adicione a farinha de trigo aos poucos, depois o chocolate em pó e o fermento. Acrescente o leite e misture até formar uma massa lisa.\nDespeje a massa em uma forma untada com margarina e asse em forno médio-alto 200°C, preaquecido, por 40 minutos.\nDesenforme ainda quente.\nPara a cobertura de chocolate:\nEm uma panela, leve todos os ingredientes ao fogo até levantar fervura.\nDespeje ainda quente em cima do bolo e sirva.\n",
+                "url": "https://www.minhareceita.com.br/receita/bolo-de-chocolate-simples-e-fofinho/?gclid=EAIaIQobChMIru-uuJiOigMVz0FIAB1FzTUzEAMYASAAEgIHRPD_BwE/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "bolochocolate0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "bolochocolate1.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 4,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "time": "60 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Bolo de Cenoura",
+                "description": "Porque bolo de cenoura é o preferido de todo mundo.",
+                "ingredients": "2 cenouras descascadas e picadas grosseiramente\n1 xícara (chá) de Margarina Qualy Aéra\n3 ovos\n1 e 1/2 xícara (chá) de açúcar\n2 xícaras (chá) de farinha de trigo\n1 colher (sopa) de fermento químico em pó\nPara a cobertura:\n3 colheres (sopa) de Margarina Qualy Aéra\n3 colheres (sopa) de açúcar\n2 colheres (sopa) de chocolate em pó solúvel\n1/2 xícara (chá) de leite\n",
+                "instructions": "Para o bolo:\nEm um liquidificador, bata as cenouras, a margarina e os ovos até formar um creme homogêneo.\nEm um recipiente, transfira o creme de cenoura e adicione o açúcar e a farinha peneirados, misturando bem até obter uma massa uniforme.\nAdicione o fermento químico em pó e mexa suavemente.\nDespeje a massa em uma forma com furo no meio, untada com margarina e enfarinhada.\nAsse em forno médio (180°C), preaquecido, por cerca de 45 minutos ou até que um palito inserido no centro saia limpo.\nPara a cobertura de chocolate:\nEm uma panela, misture a margarina, o açúcar, o chocolate em pó e o leite.\nLeve ao fogo médio, mexendo continuamente, até obter uma calda lisa e brilhante.\nDesenforme o bolo e despeje a cobertura ainda quente por cima.\nSirva em seguida.\n",
+                "url": "https://www.qualy.com.br/receitas/bolo-de-cenoura-com-chocolate/?gad_source=1&gclid=EAIaIQobChMIg-T-4pmOigMVVVlIAB1fMCtuEAAYASAAEgLfm_D_BwE&gclsrc=aw.ds",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "bolocenoura.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 5,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "time": "60 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Escondidinho de Carne de Sol",
+                "description": "Escondidinho de carne de sol com batata e creme com requeijão, excelente sugestão para encarar o friozinho do inverno com familiares e amigos",
+                "ingredients": "8 batatas inglesas médias\n½ caixa de creme de leite\nQueijo parmesão ralado\n3 a 4 colheres (sopa) de requeijão cremoso\nSal a gosto\n1 cebola\n1 xícara (chá) de creme de leite\n½ tomate\n2 dentes de alho\n3 colheres (sopa) de requeijão\n250 g de queijo mussarela\n500 g de carne de sol\n2 colheres (sopa) de margarina",
+                "instructions": "1. Para o purê: cozinhe bem as batatas, descasque e amasse. Em uma panela, coloque a margarina e o purê de batatas. Adicione meia caixa de creme de leite, mexendo até obter consistência. Acrescente 3 a 4 colheres de requeijão cremoso e sal a gosto. Reserve.\n2. Para a carne de sol: corte em pequenos pedaços e escalde. Frite os pedaços na margarina até dourar. Em outra panela, refogue meia cebola e 1 dente de alho. Junte a carne e processe até triturar bem. Reserve.\n3. Para o creme com requeijão: refogue a outra metade da cebola, o alho e o tomate na margarina. Acrescente 2 colheres de creme de leite e 3 colheres de requeijão. Misture bem.\n4. Montagem: em uma travessa, coloque a carne de sol e o creme de requeijão. Misture delicadamente e cubra com fatias de mussarela. Adicione o purê por cima, cobrindo toda a travessa. Finalize com mais queijo mussarela e queijo parmesão ralado.\n5. Leve ao forno preaquecido (180°C) por 5 a 10 minutos, ou até o queijo derreter. Sirva com arroz branco e batata palha.",               
+                "url": "https://www.cpt.com.br/artigos/escondidinho-de-carne-de-sol-com-batata-e-creme-com-requeijao",
+                "blobs": [
+                    {
+                        "id": "blob9",
+                        "type": "image",
+                        "file": "escondidinho0.jpg"
+                    },
+                    {
+                        "id": "blob10",
+                        "type": "image",
+                        "file": "escondidinho1.jpg"
+                    },
+                    {
+                        "id": "blob11",
+                        "type": "image",
+                        "file": "escondidinho2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 6,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "time": "2h 30 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Rabada",
+                "description": "Esta receita tem truque: a rabada é escaldada para ficar menos gordurosa, e só depois é cozida com o molho, na panela de pressão, para ficar desmanchando e soltando do osso.",
+                "ingredients": "2 kg de rabada de boi\ncaldo de 1 limão\n2 cebolas\n2 talos de salsão\n3 dentes de alho\n2 pimentas dedo-de-moça\n1 lata de tomate pelado em cubos (com o líquido)\n1 xícara (chá) de vinho tinto\n2 folhas de louro\n1 colher (chá) de cominho em pó\nazeite a gosto\nsalsinha picada a gosto\nsal a gosto\n",
+                "instructions": "Leve uma panela de pressão (sem a tampa) com 2,5 litros de água ao fogo alto para ferver. Tempere a rabada com o caldo de limão e 1 colher (chá) de sal.\nAssim que a água ferver, junte a rabada e deixe cozinhar por 20 minutos - essa etapa serve para extrair parte da gordura da rabada e deixar o preparo mais leve. Enquanto isso, prepare os outros ingredientes.\nDescasque e pique fino as cebolas e os dentes de alho. Descarte as folhas, lave, seque e pique o salsão em cubinhos. Lave, seque e corte as pimentas ao meio; com a ponta da faca, descarte as sementes; pique cada metade em cubinhos. Cuidado ao manipular a pimenta: lave bem as mãos em seguida, para não correr o risco de se queimar, e não coce os olhos.\nDepois dos 20 minutos de cozimento, passe a rabada pelo escorredor e descarte a água com a gordura.\nVolte a panela (sem água) ao fogo médio. Quando aquecer, regue com 1 colher (sopa) de azeite e adicione os pedaços de rabada aos poucos - se colocar todos de uma só vez eles vão cozinhar em vez de dourar. Deixe dourar bem, por cerca de 3 minutos de cada lado. Transfira os pedaços dourados para uma tigela e doure o restante, regando a panela com azeite a cada leva.\nMantenha a panela em fogo médio e regue com mais 1 colher (sopa) de azeite. Junte a cebola, tempere com uma pitada de sal e refogue por cerca de 10 minutos, mexendo de vez em quando até começar a dourar. Junte o alho, o salsão, a pimenta dedo-de-moça e as folhas de louro. Tempere com o cominho e refogue por mais 2 minutos.\nAcrescente o vinho e misture bem com uma espátula, raspando o fundo da panela para dissolver os queimadinhos - eles dão sabor ao molho. Junte o tomate pelado, regue com 2 xícaras (chá) de água e deixe cozinhar em fogo alto até ferver.\nVolte os pedaços de rabada para a panela, tempere com sal e tampe. Deixe cozinhar em fogo alto; assim que a válvula começar a apitar, abaixe o fogo e deixe cozinhar por mais 50 minutos, até que a carne fique bem macia.\nDesligue o fogo e, importante, deixe toda a pressão sair antes de abrir a panela. Misture a salsinha picada e sirva a seguir. Fica uma delícia com salada de agrião.",
+                "url": "https://panelinha.com.br/receita/rabada-molho-tomate-vinho",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "rabada0.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "rabada1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "rabada2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 7,
+            "datetime": "2019-05-01T12:00-0500",
+            "company": {
+                "time": "1h 40 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Torta de Limão",
+                "description": "Torta de Limão é uma das receitas favoritas do brasileiro!",
+                "ingredients": "Massa\n2 xícaras (chá) de farinha de trigo\n4 colheres (sopa) de manteiga\nmeia lata de NESTLÉ® Creme de Leite\n1 colher (chá) de fermento em pó\nRecheio\n1 lata ou caixinha de Leite MOÇA® (395 g)\n6 colheres (sopa) de suco de limão\nmeia lata de NESTLÉ® Creme de Leite\n1 colher (sopa) de raspas da casca de limão\nMerengue\n3 claras\nmeia xícara (chá) de açúcar\n",
+                "instructions": "Massa\n1. Em um recipiente, peneire a farinha de trigo, faça uma cova no centro e coloque a manteiga, o NESTLÉ Creme de Leite e o fermento em pó.\n2. Misture-os com as pontas dos dedos, até que a massa solte completamente das mãos.\n3. Deixe descansar por cerca de 30 minutos na geladeira.\n4. Em uma superfície limpa, polvilhada com farinha de trigo, abra a massa, forre uma forma de fundo removível (24 cm de diâmetro), fure o fundo com um garfo e asse em forno médio-alto (200°C), preaquecido, por cerca de 20 minutos. Reserve.\nRecheio\n5. Em um recipiente, misture bem o Leite MOÇA com o suco de limão. Incorpore o NESTLÉ Creme de Leite e as raspas de limão.\n6. Recheie a massa já assada e leve à geladeira por cerca de 30 minutos, para firmar o recheio. Reserve.\nMerengue\n7. Em uma panela, misture as claras e o açúcar e leve ao fogo baixo, mexendo vigorosamente sem parar, por cerca de 3 minutos, tirando a panela do fogo por alguns instantes a cada minuto, continuando a mexer, para não cozinhar.\n8. Retire do fogo e em uma batedeira, bata por cerca de 5 minutos ou até dobrar de volume.\n9. Desligue a batedeira, retire a torta da geladeira e cubra-a com o merengue. Retorne a torta ao forno por cerca de 10 minutos, para dourar. Sirva gelada.",
+                "url": "https://www.receitasnestle.com.br/receitas/torta-de-limao",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "limao0.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "limao1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "limao2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 8,
+            "datetime": "2019-11-01T12:00-0500",
+            "company": {
+                "time": "20 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Strogonoff",
+                "description": "Com um tempero único e uma suculência sem igual, essa receita é uma ótima opção tanto para o dia a dia quanto para ocasiões especiais, como um almoço de domingo em família ou um jantar divertido com os amigos.",
+                "ingredients": "1 colher (sopa) de Azeite de Oliva Extra Virgem TERRANO®\n1 dente de alho espremido\n1 cebola pequena picada (100 g)\n1 peito de frango pequeno, cortado em iscas (400 g)\n1 sachê de Tempero SAZÓN® Verde\n1 pitada de sal\n1 colher (sopa) de ketchup\n1 colher (sopa) de mostarda\n1 xícara (chá) de polpa de tomate (200 g)\n1 vidro pequeno de cogumelos em conserva, em lâminas, escorrido (100 g)\n1 lata de creme de leite (300 g)\n",
+                "instructions": "1. Em uma panela média, coloque o Azeite TERRANO® e leve ao fogo alto para aquecer. Junte o alho e a cebola, e refogue por 1 minuto, ou até o alho começar a dourar. Acrescente o frango, o Tempero SAZÓN® e o sal, e frite por 6 minutos, mexendo de vez em quando, ou até dourar o frango por todos os lados.\n2. Adicione o ketchup, a mostarda, a polpa de tomate e o cogumelo, e misture. Junte o creme de leite, mexa e cozinhe por 2 minutos, ou até começar a levantar fervura.\n3. Retire do fogo e sirva em seguida.",
+                "url": "https://www.saboresajinomoto.com.br/receita/strogonoff-de-frango-delicia",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "strogonoff0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "strogonoff1.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "strogonoff2.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 9,
+            "datetime": "2019-10-01T12:00-0500",
+            "company": {
+                "time": "40 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Salpicão",
+                "description": "A receita de salpicão é típica das mesas brasileiras e faz sucesso principalmente nas refeições de comemoração no fim de ano.",
+                "ingredients": "1 embalagem de Peito de Frango Desfiado Seara (400g)\n1 xícara de Ervilha Congelada Seara Nature\n1 embalagem de Presunto Seara fatiado e picado\n4 colheres de sopa de azeite\n1 cenoura ralada\n1/4 xícara de uva passas pretas\n1 1/2 xícara de maionese\n1 lata de milho drenada\n1 maçã picada\nCheiro verde picadinho a gosto\nSal e pimenta do reino\nBatata palha a gosto\n",
+                "instructions": "1. Em uma frigideira larga, adicione o azeite e aqueça em fogo médio.\n2. Adicione o Peito de Frango Desfiado Seara e a Ervilha Congelada Seara Nature.\n3. Acerte o sal, a pimenta do reino e refogue por cerca de 10 minutos ou até o frango começar a dourar e a ervilha descongelar.\n4. Transfira para uma tigela grande e espere esfriar.\n5. Adicione o Presunto Seara, a cenoura, as uvas passas, o milho, a maçã e o cheiro verde na tigela do frango.\n6. Misture bem.\n7. Adicione a maionese, cubra e leve à geladeira por pelo menos 20 minutos.\n8. Sirva com batata palha.",
+                "url": "https://www.minhareceita.com.br/receita/salpicao-tradicional/",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "salpicao0.jpeg"
+                    },
+                    {
+                        "id": "blob5",
+                        "type": "image",
+                        "file": "salpicao1.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 10,
+            "datetime": "2019-09-01T12:00-0500",
+            "company": {
+                "time": "H. Stern",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Fricassê de Frango",
+                "description": "Fricassê de Frango é uma receita clássica que não tem como dar errado: frango desfiado cremoso, milho e muuuito queijo por cima para gratinar!.",
+                "ingredients": "1 colher de sopa de manteiga\n1 cebola pequena picada\n400 gramas de peito de frango cozido e desfiado\n1 cubo de Caldo Knorr Galinha\n1 xícara de chá de água fervente\n1 lata de milho em conserva Knorr escorrida\n1 lata de creme de leite\n1 copo de requeijão cremoso\n200 gramas de queijo muçarela fatiado\n1/2 xícara de chá de batata palha\n",
+                "instructions": "1. Em uma panela, coloque a manteiga e leve ao fogo alto para derreter. Junte a cebola e refogue até ficar dourada.\n2. Acrescente o peito de frango e frite rapidamente. Adicione o cubo de Caldo Knorr Galinha já dissolvido na água fervente e deixe cozinhar, em fogo baixo, com a panela semitampada até secar o líquido.\n3. Enquanto isso, no copo do liquidificador, bata o milho em conserva Knorr, o creme de leite e o requeijão até ficar homogêneo.\n4. Transfira o conteúdo do liquidificador para a panela com o frango e misture bem até encorpar levemente.\n5. Pré-aqueça o forno em temperatura média (180°C).\n6. Disponha o fricassê em um refratário médio, cubra com as fatias de muçarela e leve ao forno por 20 minutos, ou até o queijo derreter.\n7. Retire do forno, finalize com a batata palha e sirva a seguir.",
+                "url": "https://www.knorr.com/br/r/fricass-de-frango-prtico.html/212080",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "fricasse0.jpeg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "fricasse1.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 11,
+            "datetime": "2019-08-01T12:00-0500",
+            "company": {
+                "time": "40 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Pudim",
+                "description": "Veja como fazer essa receita de pudim de leite condensado lisinho e com uma calda perfeita de caramelo. Ele é delicioso, barato e bem rápido de preparar! ",
+                "ingredients": "1 lata de leite condensado\n1 lata de leite (medida da lata de leite condensado)\n3 ovos inteiros\n1 xícara (chá) de açúcar\n1/2 xícara de água\n",
+                "instructions": "1. Primeiro, bata bem os ovos no liquidificador.\n2. Acrescente o leite condensado e o leite, e bata novamente.\n3. Para a calda, derreta o açúcar na panela até ficar moreno, acrescente a água e deixe engrossar.\n4. Coloque a calda em uma forma redonda e despeje a massa do pudim por cima.\n5. Asse em forno médio por 45 minutos, com a assadeira redonda dentro de uma maior com água.\n6. Espete um garfo para ver se está bem assado.\n7. Deixe esfriar e desenforme.",
+                "url": "https://www.tudogostoso.com.br/receita/31593-pudim-de-leite-condensado.html",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "pudim0.jpeg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 12,
+            "datetime": "2019-07-01T12:00-0500",
+            "company": {
+                "time": "30 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Delícia de Abacaxi",
+                "description": "Apresentamos uma sobremesa refrescante e deliciosa: a Delícia de Abacaxi.",
+                "ingredients": "1 abacaxi cortado em cubos\n1 xícara de água\nAçúcar a gosto\n1 lata de leite condensado\n1 lata de leite de vaca (medida da lata de leite condensado)\n3 gemas\n3 claras batidas em neve\n3 colheres (sopa) de açúcar\n1 lata de creme de leite\n",
+                "instructions": "1. Em uma panela, coloque o abacaxi, o açúcar e a água e leve ao fogo até obter um ponto de doce.\n2. Desligue o fogo e deixe esfriar.\n3. Para o creme, em outra panela em fogo baixo, misture o leite condensado, o leite de vaca e as gemas peneiradas até que vire um creme.\n4. Desligue o fogo e deixe esfriar.\n5. Para a cobertura, bata as claras em neve, acrescente o açúcar, o creme de leite e mexa delicadamente com uma colher.\n6. Em um refratário, faça uma camada com o doce de abacaxi, outra com o creme e outra com a cobertura.\n7. Leve ao freezer e sirva bem gelado.",
+                "url": "https://www.tudogostoso.com.br/receita/6322-delicia-de-abacaxi.html",
+                "blobs": [
+                    {
+                        "id": "blob9",
+                        "type": "image",
+                        "file": "abacaxi0.jpg"
+                    },
+                    {
+                        "id": "blob10",
+                        "type": "image",
+                        "file": "abacaxi1.jpg"
+                    },
+                    {
+                        "id": "blob11",
+                        "type": "image",
+                        "file": "abacaxi2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 13,
+            "datetime": "2019-06-01T12:00-0500",
+            "company": {
+                "time": "2h 20 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Baião de Dois",
+                "description": "Existe dupla mais popular que essa? Arroz com feijão já se completam, combinados com carne-seca, queijo de coalho e bacon então... Vai dar samba, ou melhor, baião!",
+                "ingredients": "500 g de carne-seca\n1 xícara (chá) de feijão-fradinho\n1 xícara (chá) de arroz\n½ cebola picada fino\n1 colher (sopa) de azeite (ou óleo)\n½ colher (chá) de sal\n1 folha de louro",
+                "instructions": "1. Corte a carne-seca em cubos grandes de cerca de 7 cm. Coloque numa tigela e lave em água corrente. Cubra os cubos de carne com 5 xícaras (chá) de água fria, cubra a tigela e deixe na geladeira por 24 horas, trocando a água pelo menos uma vez. \n2. Escorra a água e transfira a carne para a panela de pressão. Complete com água até a metade da panela, tampe e cozinhe em fogo médio por 20 minutos. Desligue o fogo e espere a pressão sair antes de abrir a panela.\n3. Despreze a água do cozimento e junte o feijão-fradinho à carne. Cozinhe novamente por 10 minutos. Desligue o fogo e deixe a pressão sair.\n4. Retire os cubos de carne com uma pinça e desfie com dois garfos, descartando pedaços maiores de gordura. Passe o feijão por uma peneira e reserve a água do cozimento.\n5. Em uma panela média, aqueça o azeite e adicione a cebola picada. Tempere com o sal e refogue por 2 minutos. Adicione o arroz e mexa por 1 minuto para envolver os grãos.\n6. Meça 2 xícaras (chá) da água do cozimento reservada e adicione ao arroz. Junte a folha de louro, misture e cozinhe em fogo médio. Quando a água começar a secar, reduza o fogo, tampe parcialmente e cozinhe até que o arroz absorva toda a água. Verifique com um garfo.\n7. Desligue o fogo e mantenha a panela tampada por 5 minutos para finalizar o cozimento no vapor. Prepare o refogado enquanto espera.",
+                "url": "https://panelinha.com.br/receita/baiao-de-dois",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "baiao0.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "baiao1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "baioa2.jpg"
+                    }
+                ]
+            }
+        },
+        {
+            "_id": 14,
+            "datetime": "2019-05-01T12:00-0500",
+            "company": {
+                "time": "50 min",
+                "avatar": "time.jpeg"
+            },
+            "likes": 0,
+            "recipe": {
+                "name": "Bolo de Milho",
+                "description": "Essa receita, além de deliciosa, é extremamente prática, sendo ideal para quem busca um doce caseiro sem abrir mão da facilidade no preparo.",
+                "ingredients": "1 lata de milho (sem o líquido)\n1 lata de leite (medida da lata de milho)\n1 lata de açúcar (medida da lata de milho)\n1 lata de flocão de milho\n1/2 lata de óleo de soja\n3 ovos inteiros\n1 colher (sopa) de fermento em pó químico\nMargarina (para untar)\nFarinha de trigo (para untar)\n",
+                "instructions": "1. Escorra o milho e use a própria lata para as medidas.\n2. Unte e enfarinhe uma forma de bolo com furo.\n3. Preaqueça o forno.\n4. Coloque no liquidificador o milho (já escorrido), o leite, o açúcar, o flocão de milho, o óleo e os ovos. Bata bem até que o milho fique bem moído.\n5. Se desejar, acrescente 2 colheres de sopa de coco ralado.\n6. Adicione o fermento em pó e pulse o liquidificador 3 vezes.\n7. Despeje a massa na forma preparada e leve ao forno médio.\n8. Asse por aproximadamente 40 minutos. Faça o teste do palito para verificar o ponto e observe um tom dourado médio.\n9. Retire do forno e espere esfriar completamente antes de desenformar.\n",                
+                "url": "https://www.tudogostoso.com.br/receita/143393-bolo-de-milho-de-lata-no-liquidificador.html",
+                "blobs": [
+                    {
+                        "type": "image",
+                        "file": "bolomilho0.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "bolomilho1.jpg"
+                    },
+                    {
+                        "type": "image",
+                        "file": "bolomilho2.jpg"
+                    }
+                ]
+            }
+        }
+    ]
+ }
+ 
+ 
